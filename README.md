@@ -15,6 +15,6 @@
     <img align="center" alt:"sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-## Um pouquinho sobre mim
+## Um pouco sobre mim
 Apaixonado por tecnologia, atualmente estudo Desenvolvimento de Software Multiplataforma, pela Fatec-ZL!  
 Entusiasta, curioso, proativo e muito esforçado, esse sou eu! 😃
